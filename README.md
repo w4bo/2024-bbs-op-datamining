@@ -15,12 +15,12 @@ Contacts:
 
 ARTIFICIAL INTELLIGENCE FOR DATA ANALYSIS
 
-- Matteo Francia, Ph.D. in Computer Science and Engineering. Assistant Professor @ UniBO
+- [Matteo Francia](https://www.unibo.it/sitoweb/m.francia/en), Ph.D. in Computer Science and Engineering. Assistant Professor @ UniBO
 
 DATA & AI LABORATORY
 
-- Matteo Francia, Ph.D. in Computer Science and Engineering. Assistant Professor @ UniBO
-- Enrico Gallinucci, Ph.D. in Computer Science and Engineering. Assistant Professor @ UniBO
+- [Matteo Francia](https://www.unibo.it/sitoweb/m.francia/en), Ph.D. in Computer Science and Engineering. Assistant Professor @ UniBO
+- [Enrico Gallinucci](https://www.unibo.it/sitoweb/enrico.gallinucci/en), Ph.D. in Computer Science and Engineering. Assistant Professor @ UniBO
 
 ## Programme
 
