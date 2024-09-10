@@ -19,12 +19,12 @@ Contacts:
 
 | When | What |
 | -    |  -    |
-| Day 1 (Sep 13, 2023; 14.00 - 18.00) | Introduction to Data Mining, Case Studies: WeLASER, Cimice.Net, Assortment |
-| Day 2 (Sep 14, 2022; 9.00 - 13.00)  | Data pre-processing, Case Study: Gym                    |
+| Day 1 (Sep 13, 2024; 14.00 - 18.00) | Introduction to Data Mining, Case Studies: WeLASER, Cimice.Net, Assortment |
+| Day 2 (Sep 14, 2024; 9.00 - 13.00)  | Data pre-processing, Case Study: Gym                    |
 | Day 3 (Sep 20, 2024; 14.00 - 18.00) | Classification, Case Study: Gym, Weka, Hands on Classification with Weka |
-| Day 4 (Sep 21, 2023; 9.00 - 13.00)  | Hands on Classification with Weka (guided), ANN, Case studies: Smart Irrigation, Clustering |
-| Day 5 (Oct 27, 2023; 14.00 - 18.00) | Integrated analytics (guided) lab |
-| Day 6 (Oct 28, 2023; 9.00 - 13.00)  | Integrated analytics (guided) lab |
+| Day 4 (Sep 21, 2024; 9.00 - 13.00)  | Hands on Classification with Weka (guided), ANN, Case studies: Smart Irrigation, Clustering |
+| Day 5 (Oct 27, 2024; 14.00 - 18.00) | Integrated analytics (guided) lab |
+| Day 6 (Oct 28, 2024; 9.00 - 13.00)  | Integrated analytics (guided) lab |
 
 Install Weka:
 
