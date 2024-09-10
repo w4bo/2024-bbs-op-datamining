@@ -17,24 +17,25 @@ Contacts:
 
 ## Programme
 
-| When | What |
-| -    |  -    |
-| Day 1 (Sep 13, 2024; 14.00 - 18.00) | Introduction to Data Mining, Case Studies: WeLASER, Cimice.Net, Assortment |
-| Day 2 (Sep 14, 2024; 9.00 - 13.00)  | Data pre-processing, Case Study: Gym                    |
-| Day 3 (Sep 20, 2024; 14.00 - 18.00) | Classification, Case Study: Gym, Weka, Hands on Classification with Weka |
-| Day 4 (Sep 21, 2024; 9.00 - 13.00)  | Hands on Classification with Weka (guided), ANN, Case studies: Smart Irrigation, Clustering |
-| Day 5 (Oct 27, 2024; 14.00 - 18.00) | Integrated analytics (guided) lab |
-| Day 6 (Oct 28, 2024; 9.00 - 13.00)  | Integrated analytics (guided) lab |
+| Lecture               | When                                | What                                                                                        | Who             |
+| -                     | -                                   |  -                                                                                          | -               |
+| AI FOR DATA ANALYSIS  | Day 1 (Sep 13, 2024; 14.00 - 18.00) | Introduction to Data Mining, Case Studies: WeLASER, Cimice.Net, Assortment                  | Matteo Francia  |
+| AI FOR DATA ANALYSIS  | Day 2 (Sep 14, 2024;  9.00 - 13.00) | Data pre-processing, Case Study: Gym                                                        | Matteo Francia  |
+| AI FOR DATA ANALYSIS  | Day 3 (Sep 20, 2024; 14.00 - 18.00) | Classification, Case Study: Gym, Weka, Hands on Classification with Weka                    | Matteo Francia  |
+| AI FOR DATA ANALYSIS  | Day 4 (Sep 21, 2024;  9.00 - 13.00) | Hands on Classification with Weka (guided), ANN, Case studies: Smart Irrigation, Clustering | Matteo Francia  |
+| DATA & AI LABORATORY  | Day 5 (Oct 27, 2024; 14.00 - 18.00) | Integrated analytics (guided) lab                                                           | Matteo Francia  |
+| DATA & AI LABORATORY  | Day 6 (Oct 28, 2024;  9.00 - 13.00) | Integrated analytics (guided) lab                                                           | Enrico Gallinucci |
 
 Install Weka:
 
 - Weka is a machine learning software to solve data mining problems 
 - Download: https://prdownloads.sourceforge.net/weka/weka-3-8-6-azul-zulu-windows.exe
 
-Install Tableau:
+Install PowerBI:
 
-- Tableau Desktop delivers everything you need to access, visualize, and analyze your data. With an intuitive drag and drop interface
-- Download: https://www.tableau.com/products/desktop
+- Turn your data into visuals with advanced data-analysis tools, AI capabilities, and a user-friendly report-creation tool. 
+- **Only for Windows!**
+- Download: https://www.microsoft.com/en-us/download/details.aspx?id=58494
 
 Link interessanti:
 
