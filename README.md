@@ -45,6 +45,13 @@ Install PowerBI:
 - **Only for Windows!**
 - Download: https://www.microsoft.com/en-us/download/details.aspx?id=58494
 
+Riferimento ai casi di studio esterni:
+
+- [Prescriptive analytics: Smart Irrigation](https://w4bo.github.io/2024-bf-wateringsummerschool/cs-smartirrigation)
+- [Prescriptive analytics: WeLASER](https://w4bo.github.io/AA2425-unibo-mldm/cs-welaser)
+- [Descriptive analytics: Cimice.Net](https://w4bo.github.io/AA2425-unibo-mldm/cs-cimice)
+- [Data collection: Pear Brown Spot](https://w4bo.github.io/AA2425-unibo-mldm/cs-brownspot)
+
 Link interessanti:
 
 - News
