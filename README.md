@@ -14,8 +14,8 @@ Contacts:
 ## Hi!
 
 
--  Matteo Francia <m.francia@unibo>
--  Enrico Gallinucci <enrico.gallinucci@unibo>
+-  Matteo Francia <m.francia@unibo.it>
+-  Enrico Gallinucci <enrico.gallinucci@unibo.it>
 
 ARTIFICIAL INTELLIGENCE FOR DATA ANALYSIS
 
