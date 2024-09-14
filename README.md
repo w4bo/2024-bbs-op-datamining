@@ -13,6 +13,10 @@ Contacts:
 
 ## Hi!
 
+
+-  Matteo Francia <m.francia@unibo>
+-  Enrico Gallinucci <enrico.gallinucci@unibo>
+
 ARTIFICIAL INTELLIGENCE FOR DATA ANALYSIS
 
 - [Matteo Francia](https://www.unibo.it/sitoweb/m.francia/en), Ph.D. in Computer Science and Engineering. Assistant Professor @ UniBO
