@@ -22,12 +22,12 @@ DATA & AI LABORATORY
 - [Matteo Francia](https://www.unibo.it/sitoweb/m.francia/en), Ph.D. in Computer Science and Engineering. Assistant Professor @ UniBO
 - [Enrico Gallinucci](https://www.unibo.it/sitoweb/enrico.gallinucci/en), Ph.D. in Computer Science and Engineering. Assistant Professor @ UniBO
 
-## Programme
+## Programme (tentative)
 
 | Lecture               | When                                | What                                                                                        | Who             |
 | -                     | -                                   |  -                                                                                          | -               |
-| AI FOR DATA ANALYSIS  | Day 1 (Sep 13, 2024; 14.00 - 18.00) | Introduction to Data Mining, Case Studies: WeLASER, Cimice.Net, Assortment                  | Matteo Francia  |
-| AI FOR DATA ANALYSIS  | Day 2 (Sep 14, 2024;  9.00 - 13.00) | Data pre-processing, Case Study: Gym                                                        | Matteo Francia  |
+| AI FOR DATA ANALYSIS  | Day 1 (Sep 13, 2024; 14.00 - 18.00) | Introduction to Data Mining, Case Studies: Cimice.Net, Watering                             | Matteo Francia  |
+| AI FOR DATA ANALYSIS  | Day 2 (Sep 14, 2024;  9.00 - 13.00) | Data pre-processing, Case Studies: Assortment, Gym                                          | Matteo Francia  |
 | AI FOR DATA ANALYSIS  | Day 3 (Sep 20, 2024; 14.00 - 18.00) | Classification, Case Study: Gym, Weka, Hands on Classification with Weka                    | Matteo Francia  |
 | AI FOR DATA ANALYSIS  | Day 4 (Sep 21, 2024;  9.00 - 13.00) | Hands on Classification with Weka (guided), ANN, Case studies: Smart Irrigation, Clustering | Matteo Francia  |
 | -                     | -                                   |  -                                                                                          | -               |
