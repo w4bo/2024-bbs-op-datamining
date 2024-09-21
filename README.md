@@ -35,8 +35,8 @@ DATA & AI LABORATORY
 | AI FOR DATA ANALYSIS  | Day 3 (Sep 20, 2024; 14.00 - 18.00) | Classification, Case Study: Gym, Weka, Hands on Classification with Weka                    | Matteo Francia  |
 | AI FOR DATA ANALYSIS  | Day 4 (Sep 21, 2024;  9.00 - 13.00) | Hands on Classification with Weka (guided), ANN, Case studies: Smart Irrigation, Clustering | Matteo Francia  |
 | -                     | -                                   |  -                                                                                          | -               |
-| DATA & AI LABORATORY  | Day 5 (Oct 27, 2024; 14.00 - 18.00) | Integrated analytics (guided) lab                                                           | Matteo Francia  |
-| DATA & AI LABORATORY  | Day 6 (Oct 28, 2024;  9.00 - 13.00) | Integrated analytics (guided) lab                                                           | Enrico Gallinucci |
+| DATA & AI LABORATORY  | Day 5 (Sep 27, 2024; 14.00 - 18.00) | Integrated analytics (guided) lab                                                           | Matteo Francia  |
+| DATA & AI LABORATORY  | Day 6 (Sep 28, 2024;  9.00 - 13.00) | Integrated analytics (guided) lab                                                           | Enrico Gallinucci |
 
 Install Weka:
 
